@@ -1,0 +1,105 @@
+body {
+    width: 80%;
+    border: 20px solid rgba(84, 155, 236, 0.226);
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+div.start p {
+	
+	font-size: 23px;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f70303;
+	width: 50% ;
+	padding-bottom: 20px;
+}
+.link {
+	width: 30%;
+	float: left;
+    margin-bottom: 1.66%;
+    margin-right: 3.33%;
+    color: #f703038c;
+    font-weight: 600;
+}
+.link:hover {
+    color: rgba(0, 0, 0, 0.733);
+}
+div#end p {
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+    margin: 40px;
+    
+    
+}
+div.thanks {
+    border-left: 5px solid #bdc3c7;
+    padding-left: 5px;}
+
+div.pic img {
+    width: 70%;
+}
+div.pic {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+div.name h2 {
+	
+	font-size: 18px;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f7030388;
+	width: 40% ;
+    padding-bottom: 20px;
+    color: rgba(0, 0, 0, 0.63);
+}
+div.all {
+    margin-left: 1.66%;
+	font-size: 15px;
+	width: 97% ;
+    padding-bottom: 10px;
+    
+}
+span.sp {
+    font-family: 'Yeseva One', cursive;
+}
+div#middle img {
+	width: 30%;
+	float: left;
+    margin: 1.66%;
+    padding-bottom: 15px;
+   
+}
+h3 {
+    font-size: 15px;
+	border-bottom: 2px solid #f7030336;
+	width: 30% ;
+    padding-bottom: 10px;
+    color: rgba(0, 0, 0, 0.63);
+}
+
+div#middle {
+    padding-bottom: 20px; 
+    
+}
+div.inst a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.199);
+    font-weight: 700;
+}
+
+nav a {
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+ul {
+    width: 90%;
+}
+div#begining {
+    padding-bottom: 20px;  
+    width: 98%;
+}
+
